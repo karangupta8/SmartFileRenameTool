@@ -1,0 +1,12 @@
+# .gitignore
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+build_log.txt
+SmartRenameInstaller.exe
