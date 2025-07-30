@@ -8,10 +8,10 @@ A powerful tool that lets you **automatically rename image files based on their 
 
 ## 📑 Table of Contents
 
-- [About](#-about)
 - [Problem](#-problem)
 - [Goal](#-goal)
 - [Features](#-features)
+- [Future Improvements](#-future-improvements)
 - [Demo](#-demo)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -61,6 +61,12 @@ This Meme:
 
 ---
 
+## ✨ Future Improvements
+- Decrease Latency
+- Use a better, lighteweight Image Captioning Model
+
+---
+
 ## 🎥 Demo
 
 > Coming soon...
@@ -102,7 +108,6 @@ python image_renamer.py path\to\images\
 ```bash
 image-renamer/
 ├── image_renamer.py            # Main logic
-├── imagenet_classes.txt        # Label map for predictions
 ├── installer.iss               # Inno Setup script
 ├── SmartRenameInstaller.exe    # Installer file by Inno Setup
 ├── build.bat                   # PyInstaller + EXE creation
