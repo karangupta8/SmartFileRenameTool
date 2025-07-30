@@ -8,7 +8,7 @@ A powerful tool that lets you **automatically rename image files based on their 
 
 ## 📑 Table of Contents
 
-- [Problem](#-problem)
+- [Problem Statement](#-problem)
 - [Goal](#-goal)
 - [Features](#-features)
 - [Future Improvements](#-future-improvements)
@@ -29,7 +29,7 @@ A powerful tool that lets you **automatically rename image files based on their 
 
 ---
 
-## ✅ Problem
+## ✅ Problem Statement
 
 When images are downloaded from the web, they are often named arbitrarily (e.g., `image123.jpg`, `random123.png`), making them hard to search or organize.
 
@@ -62,16 +62,14 @@ This Meme:
 ---
 
 ## ✨ Future Improvements
-- Decrease Latency
-- Use a better, lighteweight Image Captioning Model
+- Decrease Latency for model indetifying the Image Tags
+- Use a better, more lighteweight Image Captioning Model
 
 ---
 
 ## 🎥 Demo
 
-> Coming soon...
-
-![Demo Screenshot](assets/demo.jpg)
+![Demo Screenshot](assets/demo.png)
 
 ---
 
