@@ -47,7 +47,7 @@ Create a **Windows desktop application** that:
 
 ## Inspiration
 
-This Meme:
+This Meme (Aug'25):
 
 ![InspirationMeme](assets/InspirationMeme.png)
 
